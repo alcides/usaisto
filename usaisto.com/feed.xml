@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+  <channel>
+    <title>Usa Isto.com</title>
+    <link>http://usaisto.com</link>
+    <description>Entrevistas com os geeks portugueses sobre o que usam para inovar.</description>
+    <item>
+      <title>Alcides Fonseca</title>
+      <link>http://alcides.fonseca.usaisto.com/</link>
+      <description>&lt;p&gt;&lt;img src=&quot;http://usaisto.com/interviews/images/alcides.fonseca.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p class=&quot;summary&quot;&gt;Autor deste site, estudante, wedeveloper freeelancer&lt;/p&gt;
+&lt;time datetime=&quot;2010-06-15&quot;&gt;15 de Junho de 2010&lt;/time&gt;
+&lt;h3&gt;Quem és e o que fazes?&lt;/h3&gt;
+&lt;p&gt;De momento estou a acabar o Mestrado em Engenharia Informática durante o dia, e à noite visto o meu uniforme de super-heroi e faço webdevelopment em modo freelance.&lt;/p&gt;
+&lt;p&gt;Estou ainda envolvido num projecto de investigação que pretende explorar como seria uma linguagem de programação em que tudo acontece concorrentemente.&lt;/p&gt;
+&lt;p&gt;Quando não tenho mesmo nada melhor que fazer, dedico-me a mini-projectos como é o caso deste website.&lt;/p&gt;
+&lt;h3&gt;Que hardware é que usas?&lt;/h3&gt;
+&lt;p&gt;Tendo em conta que estou a trabalhar ora em casa, ora numa sala qualquer da universidade, tenho toda a minha vida no meu macbook preto, com upgrade de 2 GB de ram na altura, o que já era um grande avanço. Agora pondero entre meter 4 ou um &lt;span class=&quot;caps&quot;&gt;SSD&lt;/span&gt;.&lt;/p&gt;
+&lt;p&gt;Quando chego a casa, poiso o macbook no stand, ligo o monitor externo LG de 22&amp;quot;, teclado Apple wired dos mais recentes e um rato bluetooth da Microsoft. Tenho a dizer que o monitor foram os melhor 120 euros que já gastei em informática. Tanto aumenta a minha produditividade em ter browser, consola e editor abertos ao mesmo tempo, como aumenta o lazer de ver filmes e séries enquanto navego online.&lt;/p&gt;
+&lt;p&gt;Há dois anos que tenho tido problemas nos pulsos, por isso uso uns apoios de gel amarelos e catitas junto ao teclado (5 euros cada na Worten e são bastante confortáveis) e recentemente mudei o rato para a mão esquerda tanto para evitar &lt;span class=&quot;caps&quot;&gt;RSI&lt;/span&gt;, como para evitar ter de esforçar o braço para ir ao rato. Dou valor às setas e Home-End-Delete-etc, mas o numpad era escusado. Gostava que a Apple fizesse um modelo wired intermédio para quem não passa o dia em folhas de excel, mas gosta das setas à parte.&lt;/p&gt;
+&lt;p&gt;Uma vez por dia, ligo também ao meu disco Western Digital portátil para o backup da time machine. Ando também à procura do disco de rede que funcionava como outra camada de backup, porque um nunca é suficiente.&lt;/p&gt;
+&lt;p&gt;A nível móvel usava um &lt;a href=&quot;http://wiki.alcidesfonseca.com/gadgets/tytn/&quot;&gt;&lt;span class=&quot;caps&quot;&gt;HTC&lt;/span&gt; TyTN&lt;/a&gt; para tudo e mais alguma coisa, até que deixou de funcionar passado 3 anos. Comprei um Blackberry Curve e não recomendo a ninguém em Portugal que não tenha o pacote de Blackberry activado.&lt;/p&gt;
+&lt;h3&gt;E que software?&lt;/h3&gt;
+&lt;p&gt;Tento ter uma abordagem minimalista em relação ao software e instalar o menos possível. Nesse aspecto o MacOS traz já a maior parte das minhas ferramentas como o Terminal, Mail.app, Safari e iCal. As duas primeiras instalações são o &lt;a href=&quot;http://adium.im&quot;&gt;Adium&lt;/a&gt; para GTalk, &lt;span class=&quot;caps&quot;&gt;MSN&lt;/span&gt; e Facebook e o &lt;a href=&quot;http://transmissionbt.com&quot;&gt;Transmission&lt;/a&gt; para fazer downloads &lt;em&gt;legais&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Quando disse que tinha a minha vida toda no meu macbook, estava-me apenas a referir à forma como lhe acedo, porque tenho os conteúdos mais importantes replicados em serviços online. O calendário, email, contactos e feeds estão no google, sobretudo por poder aceder de qualquer lado em especial na versão mobile. As fotos estão no &lt;a href=&quot;http://flickr.com&quot;&gt;flickr&lt;/a&gt; e a minha coleção preciosa (e que tem grande valor em termos de trabalho para mim) de bookmarks no &lt;a href=&quot;http://delicious.com&quot;&gt;delicious&lt;/a&gt; (que era o backup do &lt;a href=&quot;http://ma.gnolia.com&quot;&gt;ma.gnolia&lt;/a&gt; quando este fechou). A maior parte dos meus projectos de código estão no &lt;a href=&quot;http://github.com/alcides/&quot;&gt;github&lt;/a&gt;, onde tenho uma conta média. O preço é bastante alto, mas para projectos opensource recomendo bastante, sobretudo pela forma de fazer code-reviews inline nos commits.&lt;/p&gt;
+&lt;p&gt;Falando de desenvolvimento, uso git para gerir as várias versões e trabalhar colaborativamente com os meus colegas. Para editar o código confio sempre no &lt;a href=&quot;http://macromates.com&quot;&gt;Textmate&lt;/a&gt;, mas ando a tentar mudar para MacVim, sobretudo pela forma como me divide os buffers. No entanto sou uma pessoa que gosta de ter as opções visualmente disponíveis e falta um menu no MacVim que indique todos os comandos possíveis.&lt;/p&gt;
+&lt;p&gt;Como também acabo por fazer algum design, acabo por abrir sempre o Adobe Fireworks, sendo que sou um fã da ferramenta desde o início, quando ainda era da Macromedia. A ferramenta popular é o Photoshop, mas para fazer sites onde se usam elementos vectoriais, o Fireworks permite uma agilidade muito maior, ideal até para protótipos rápidos.&lt;/p&gt;
+&lt;h3&gt;Qual era o teu setup de sonho?&lt;/h3&gt;
+&lt;p&gt;Algo semelhante a um macbook actual, ligeiramente mais leve, mas nada ao nível do macbook air. Gosto da consistência no meu material e não o lançar a voar no ar por engano. Em vez da drive óptica, um segundo disco &lt;span class=&quot;caps&quot;&gt;SSD&lt;/span&gt; para o OS, deixando o outro para media seria bastante interessante.&lt;/p&gt;
+&lt;p&gt;Gostava também que os ecrãs pudessem ser fixos numa posição para usar como touchscreen, e que não ficassem sujos, mesmo com os dedos cheios de gordura do que comemos enquanto trabalhamos.&lt;/p&gt;
+&lt;p&gt;Tirando os pedidos do costume como disco, memória e velocidade de rede infinitas, gostava que os portáteis tivessem bateria de um ou dois dias, podendo andar com ele na rua, e deixar durante a noite na dock a carregar, tal como faço com o telemóvel.&lt;/p&gt;
+&lt;p&gt;Depois em vez de monitores externos, gostava de umas películas que se colavam nas paredes e as tornavam em ecrãs multitouch de alta resolução, para deixar de ter de ligar monitores e simplesmente interagir com a parede, &lt;a href=&quot;http://vimeo.com/8660060&quot;&gt;como fazemos no nosso departamento&lt;/a&gt;.&lt;/p&gt;</description>
+      <pubDate>Tue, 15 Jun 2010 00:00:00 +0100</pubDate>
+      <dc:date>2010-06-15T00:00:00+01:00</dc:date>
+    </item>
+  </channel>
+</rss>

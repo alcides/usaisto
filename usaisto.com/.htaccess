@@ -1,0 +1,10 @@
+<IfModule mod_rewrite.c>
+	RewriteEngine On
+	RewriteCond %{ENV:REDIRECT_STATUS} 200
+	RewriteRule .* - [L]
+	RewriteCond %{HTTP_HOST} .
+	RewriteCond %{HTTP_HOST} !^www\. [NC]
+	RewriteCond %{HTTP_HOST} ^([^.]+)\.([^.]+)\.usaisto\.com(:80)?$
+	RewriteRule (.*) /interviews/%1.%2.html [L]
+</IfModule>
+ErrorDocument 404 http://usaisto.com/

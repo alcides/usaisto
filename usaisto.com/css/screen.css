@@ -1,0 +1,195 @@
+.summary {
+padding: 4px 0;
+color: #555;
+font-size: 95%;
+}
+
+a {
+background-color: #ececec;
+color: #666;
+padding: 2px;
+text-decoration: none;
+}
+
+a:hover {
+color: #0065FF !important;
+}
+
+a:hover img {
+opacity: 0.8;
+}
+
+aside#sidebar {
+float: right;
+width: 130px;
+padding: 0 10px;
+font-size: 60%;
+line-height: 15px;
+}
+
+aside#sidebar a {
+padding: 0;
+background-color: transparent;
+}
+
+body {
+width: 680px;
+padding: 50px 0;
+background-color: #fff;
+color: #000;
+margin: auto;
+text-align: left;
+line-height: 25px;
+font-family: "Droid Sans", helvetica, serif;
+}
+
+footer {
+color: #999;
+font-size: 80%;
+}
+
+footer p {
+clear: left;
+}
+
+footer p:first-child {
+padding-top: 30px;
+}
+
+h1 {
+padding: 0;
+margin: 0;
+color: #000;
+font-size: 200%;
+font-weight: normal;
+}
+
+h1 a, navigation a {
+background-color: transparent;
+color: #0065FF;
+}
+
+h1 a:hover, navigation a:hover {
+color: #000 !important;
+}
+
+h2 {
+padding: 0;
+margin: 20px 0 0 0;
+font-size: 150%;
+font-weight: normal;
+}
+
+h3 {
+padding: 0 0 5px 0;
+margin: 20px 0 5px 0;
+color: #555;
+font-size: 140%;
+font-weight: normal;
+border-bottom: solid 1px #ccc;
+}
+
+img {
+border: solid 1px #000;
+}
+
+img.fusionimg {
+margin-bottom: 10px;
+border: 0;
+}
+
+img.portrait + p {
+padding: 0;
+margin: 0;
+font-size: 80%;
+}
+
+li {
+padding: 3px 0;
+}
+
+
+navigation ul {
+padding: 5px 0;
+margin: 0 0 15px 0;
+font-size: 75%;
+border-top: dotted 1px #ccc;
+border-bottom: dotted 1px #ccc;
+}
+
+navigation ul li {
+display: inline;
+}
+
+navigation ul li:before {
+content: "/";
+}
+
+navigation ul li:first-child:before {
+content: "";
+margin-left: -4px;
+}
+
+ol, ul {
+padding: 0 30px;
+font-size: 90%;
+}
+
+p#tagline {
+padding: 10px 0 5px 0;
+margin: 0;
+color: #888;
+font-size: 90%;
+}
+
+p.license {
+font-size: 90%;
+color: #444;
+}
+
+p.pagination {
+text-align: center;
+}
+
+section#contents {
+width: 500px;
+padding: 0 20px 0 0;
+float: left;
+border-right: dotted 1px #ccc;
+}
+
+time {
+font-size: 85%;
+color: #aaa;
+}
+
+ul#interviews {
+list-style: none inside;
+padding: 0;
+margin: 0;
+margin-top: 30px;
+}
+
+ul#interviews a {
+background-color: transparent;
+font-size: 150%;
+color: #000;
+}
+
+ul#interviews a img {
+margin-bottom: 5px;
+}
+
+ul#interviews li {
+padding: 10px;
+border: solid #CCC 1px;
+margin-bottom: 10px;
+-moz-border-radius: 20px; 
+-webkit-border-radius: 10px;
+border-radius: 10px;
+background-image: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#FFFFFF), to(#E0E0E0), color-stop(1,#333333));
+}
+
+ul#interviews span {
+line-height: 5px;
+}

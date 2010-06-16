@@ -1,0 +1,47 @@
+!images/alcides.fonseca.jpg!
+
+p(summary). Autor deste site, estudante, wedeveloper freeelancer
+
+<time datetime="2010-06-15">15 de Junho de 2010</time>
+
+h3. Quem és e o que fazes?
+
+De momento estou a acabar o Mestrado em Engenharia Informática durante o dia, e à noite visto o meu uniforme de super-heroi e faço webdevelopment em modo freelance.
+
+Estou ainda envolvido num projecto de investigação que pretende explorar como seria uma linguagem de programação em que tudo acontece concorrentemente.
+
+Quando não tenho mesmo nada melhor que fazer, dedico-me a mini-projectos como é o caso deste website.
+
+h3. Que hardware é que usas?
+
+Tendo em conta que estou a trabalhar ora em casa, ora numa sala qualquer da universidade, tenho toda a minha vida no meu macbook preto, com upgrade de 2 GB de ram na altura, o que já era um grande avanço. Agora pondero entre meter 4 ou um SSD.
+
+Quando chego a casa, poiso o macbook no stand, ligo o monitor externo LG de 22", teclado Apple wired dos mais recentes e um rato bluetooth da Microsoft. Tenho a dizer que o monitor foram os melhor 120 euros que já gastei em informática. Tanto aumenta a minha produditividade em ter browser, consola e editor abertos ao mesmo tempo, como aumenta o lazer de ver filmes e séries enquanto navego online.
+
+Há dois anos que tenho tido problemas nos pulsos, por isso uso uns apoios de gel amarelos e catitas junto ao teclado (5 euros cada na Worten e são bastante confortáveis) e recentemente mudei o rato para a mão esquerda tanto para evitar RSI, como para evitar ter de esforçar o braço para ir ao rato. Dou valor às setas e Home-End-Delete-etc, mas o numpad era escusado. Gostava que a Apple fizesse um modelo wired intermédio para quem não passa o dia em folhas de excel, mas gosta das setas à parte.
+
+Uma vez por dia, ligo também ao meu disco Western Digital portátil para o backup da time machine. Ando também à procura do disco de rede que funcionava como outra camada de backup, porque um nunca é suficiente.
+
+A nível móvel usava um "HTC TyTN":http://wiki.alcidesfonseca.com/gadgets/tytn/ para tudo e mais alguma coisa, até que deixou de funcionar passado 3 anos. Comprei um Blackberry Curve e não recomendo a ninguém em Portugal que não tenha o pacote de Blackberry activado.
+
+h3. E que software?
+
+Tento ter uma abordagem minimalista em relação ao software e instalar o menos possível. Nesse aspecto o MacOS traz já a maior parte das minhas ferramentas como o Terminal, Mail.app, Safari e iCal. As duas primeiras instalações são o "Adium":http://adium.im para GTalk, MSN e Facebook e o "Transmission":http://transmissionbt.com para fazer downloads _legais_.
+
+Quando disse que tinha a minha vida toda no meu macbook, estava-me apenas a referir à forma como lhe acedo, porque tenho os conteúdos mais importantes replicados em serviços online. O calendário, email, contactos e feeds estão no google, sobretudo por poder aceder de qualquer lado em especial na versão mobile. As fotos estão no "flickr":http://flickr.com e a minha coleção preciosa (e que tem grande valor em termos de trabalho para mim) de bookmarks no "delicious":http://delicious.com (que era o backup do "ma.gnolia":http://ma.gnolia.com quando este fechou). A maior parte dos meus projectos de código estão no "github":http://github.com/alcides/, onde tenho uma conta média. O preço é bastante alto, mas para projectos opensource recomendo bastante, sobretudo pela forma de fazer code-reviews inline nos commits.
+
+
+Falando de desenvolvimento, uso git para gerir as várias versões e trabalhar colaborativamente com os meus colegas. Para editar o código confio sempre no "Textmate":http://macromates.com, mas ando a tentar mudar para MacVim, sobretudo pela forma como me divide os buffers. No entanto sou uma pessoa que gosta de ter as opções visualmente disponíveis e falta um menu no MacVim que indique todos os comandos possíveis.
+
+Como também acabo por fazer algum design, acabo por abrir sempre o Adobe Fireworks, sendo que sou um fã da ferramenta desde o início, quando ainda era da Macromedia. A ferramenta popular é o Photoshop, mas para fazer sites onde se usam elementos vectoriais, o Fireworks permite uma agilidade muito maior, ideal até para protótipos rápidos.
+
+
+h3. Qual era o teu setup de sonho?
+
+Algo semelhante a um macbook actual, ligeiramente mais leve, mas nada ao nível do macbook air. Gosto da consistência no meu material e não o lançar a voar no ar por engano. Em vez da drive óptica, um segundo disco SSD para o OS, deixando o outro para media seria bastante interessante.
+
+Gostava também que os ecrãs pudessem ser fixos numa posição para usar como touchscreen, e que não ficassem sujos, mesmo com os dedos cheios de gordura do que comemos enquanto trabalhamos.
+
+Tirando os pedidos do costume como disco, memória e velocidade de rede infinitas, gostava que os portáteis tivessem bateria de um ou dois dias, podendo andar com ele na rua, e deixar durante a noite na dock a carregar, tal como faço com o telemóvel.
+
+Depois em vez de monitores externos, gostava de umas películas que se colavam nas paredes e as tornavam em ecrãs multitouch de alta resolução, para deixar de ter de ligar monitores e simplesmente interagir com a parede, "como fazemos no nosso departamento":http://vimeo.com/8660060.
