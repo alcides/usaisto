@@ -1,0 +1,55 @@
+p(summary). Administrador na Maverick do fundo SeedCapital
+
+<time datetime="2010-07-29">29 de Julho de 2010</time>
+
+h3. Quem és e o que fazes?
+
+Sou sócio gerente (general partner) da "Maverick SGPS":http://maverick.pt/ Unipessoal Lda, a minha micro holding pessoal. A Maverick é acionista e gestora do fundo de investimento "SeedCapital":http://seedcapital.pt/, onde consequentemente sou administrador e sou uma espécie de empreendedor residente ("Entrepreneur In Residence":http://en.wikipedia.org/wiki/Entrepreneur_In_Residence).
+
+Tirei a licenciatura em Informática na Faculdade de Ciências da Universidade de Lisboa e tenho um MBA da Universidade Católica onde também sou assistente na cadeira de “Management Information Systems” e assistente regente da cadeira de “Entrepreneurship & Business Planning”.
+
+O meu tempo livre é gasto em videojogos (embora jogue menos do que noutros tempos), música (ouvir e tocar; hoje em dia toco mais e melhor do que noutros tempos), livros (maioritariamente fantasy e science fiction) e programação (estou pior do que noutros tempos e por isso reduzo-me a “martelar” código para testar uma ideia ou conceito; depois desisto, já não tenho pachorra para os detalhes).
+
+Quando era pequeno queria ser professor. Daqui a uns anos gostava de ser primeiro-ministro.
+
+Site pessoal: "mvalente.eu":http://mvalente.eu
+
+!images/mario.valente.jpg!
+
+h3. Que hardware é que usas?
+
+Na empresa uso um PC custom built (ie. rafeiro) que custou 400€+IVA (4 CPUs, 4Gb RAM, 400Gb de disco).
+
+Em casa uso uma "workstation Dell Precision 530":http://www.pcmag.com/article2/0,2817,476726,00.asp com quase 10 anos (tem uma placa gráfica mais recente e mais RAM que a original), com "um monitor Dell de 19'":http://www.anandtech.com/show/1600 (5:4, matte; odeio os 16:9 e odeio os glossy). Tem ligados um "disco Freecom com 500Gb":http://www.anandtech.com/show/1600 e um "Iomega ScreenPlay Director HD Media Player Internet Edition":http://go.iomega.com/en/products/multimedia-drive/screenplay/screenplay-director/?partner=4725.
+
+Na rua uso um "Dell Mini 9":http://www.dell.com/us/en/dfh/notebooks/laptop-inspiron-9/pd.aspx?refid=laptop-inspiron-9&cs=22&s=dfh e um telemóvel "Motorola Milestone":http://www.motorola.com/Consumers/CA-EN/Consumer-Products-and-Services/Mobile-Phones/Motorola-MILESTONE-CA-EN?localeId=27.
+
+Por razões históricas tenho ainda um "Compaq Deskpro":http://en.wikipedia.org/wiki/Compaq_Deskpro a funcionar como server/firewall, um "Toshiba Tecra 8000":http://www.westworldcomputers.com/laptops/Toshiba_8000_laptop.htm (2 ou 3 teclas deixaram de funcionar desde que despejei um bocado de iogurte líquido no teclado; é usado para catalogar livros com um "barcode reader":http://www.uxcell.com/portable-ps2-barcode-scanner-handheld-ccd-bar-code-reader-p-17721.html), um "Mac Cube":http://en.wikipedia.org/wiki/Power_Mac_G4_Cube, um "Mac Powerbook G3":http://en.wikipedia.org/wiki/PowerBook_G3 e uma "NeXTstation":http://en.wikipedia.org/wiki/NeXTstation (criada pelo Steve Jobs há 20 anos). É verdade, a sério: o Steve Jobs já existia há 20 anos e fazia coisas que não precisavam de estar na moda.
+
+Para jogar, tenho ligadas à "Sony KF-50SX100":http://www.superfi.co.uk/index.cfm/page/moreinfo.cfm/Product_ID/647 tenho uma PS2, uma Wii, uma "Sega Saturn":http://en.wikipedia.org/wiki/Sega_Saturn, uma "Sega Dreamcast":http://en.wikipedia.org/wiki/Dreamcast, uma "Sega Megadrive":http://en.wikipedia.org/wiki/Mega_Drive e um "C64":http://en.wikipedia.org/wiki/Commodore_64. Também tenho 2 Gameboys mas não sei onde andam.
+
+Para tocar tenho um "Fender Stratacoustic":http://www.musiciansfriend.com/document?doc_id=80911 branca, uma "Gibson Les Paul Cherry Sunburst Ace Frehley":http://www.acefrehleylespaul.com/Intro.html (tem 3 pickups, portanto é melhor que todas as outras), um "Kawai K1":http://www.kawaius.com/archive/digital/synth/K1:K1m_spec.html (já é vintage, uso-o como MIDI keyboard) e um "Guitar Rig 3 Kontrol":http://www.native-instruments.com/#/en/products/guitar/guitar-rig-kontrol/.
+
+h3. E que software?
+
+Tanto o PC da empresa como o PC de casa estão a correr Ubuntu 10.04 LTS. O Dell Mini 9 tem o Windows XP original, ainda não decidi se lhe afinfo com o Ubuntu ou com o ChromeOS.
+
+O Compaq tem uma distribuição Red Hat qualquer, o Cube tem uma versão inicial do OSX (10.2 Jaguar), o Powerbook tem o OSX 10.4 e a NeXT corre o "NeXTStep 3.3":http://en.wikipedia.org/wiki/NeXTSTEP.
+
+O Motorola Milestone tem o "Android 2.1 Eclair":http://en.wikipedia.org/wiki/Android_(operating_system).
+
+As aplicações a que dou mais uso: o Chrome e as apps Google quase todas (GDocs, Gmail, Reader, Calendar) e o OpenOffice (cada vez menos). Para a música uso o software do Guitar Rig (com o Wine) e o Audacity. No background normalmente estão o Grooveshark, o Hootsuite, o Transmission e o Pidgin.
+
+E, obviamente, o melhor editor de texto de sempre, o *vi*.
+
+h3. Qual era o teu setup de sonho?
+
+Para estar a trabalhar, e não entrando em "delírios":http://en.wikipedia.org/wiki/Cray_CX1, uma "workstation Dell XPS 9000":http://www.dell.com/us/en/home/desktops/desktop-studio-xps-9000/pd.aspx?refid=desktop-studio-xps-9000&cs=19&s=dhs. Completamente artilhada era coisa para 7 ou 8 mil euro. Portátil, um "Dell Adamo XPS":http://gizmodo.com/5397393/dell-adamo-xps-hands-on-insanely-thin-and-just-insane. E uma ligação à net de 1Gbps, quando os suspeitos do costume deixarem de fazer "publicidade enganosa":http://aeiou.exameinformatica.pt/zon-lanca-acesso-a-net-a-1-gbps=f1003643.
+
+Em movimento, um "Motorola Droid X":http://www.motorola.com/Consumers/US-EN/Consumer-Product-and-Services/Mobile-Phones/Motorola-DROID-X-US-EN e um "Asus Eee Pad EP101TC":http://www.engadget.com/2010/07/20/asus-eee-pad-ep101tc-opts-for-android-dumps-windows-embedded-co/.
+
+Para jogar, uma "Zombie Arcade Machine":http://www.gremlinsolutions.co.uk/products/zombie.htm.
+
+Para tocar, uma guitarra "PS1900":http://www.paulstanley.com/?module=news&news_item_id=3307, um "destes":http://www.gsaxe.com/ baixos (preferência para o "Axe":http://www.gsaxe.com/axe.html), o "Guitar Rig Pro 4":http://www.native-instruments.com/#/en/products/guitar/guitar-rig-4-pro/, um "Marshall JCM900":http://www.marshallamps.com/product.asp?productCode=4100, o "drumkit do Neil Peart":http://www.musicradar.com/gallery/reviews/neil-peart-r30-drum-kit-78603?mid=78595 e um "Korg M50":http://www.korg.com/product.aspx?pd=413.
+
+Para ler, um "Sony Reader Daily Edition":http://www.sonystyle.com/webapp/wcs/stores/servlet/ProductDisplay?storeId=10151&catalogId=10551&langId=-1&productId=8198552921666064650 e "esta lista de livros":http://www.listology.com/list/1001-books-you-must-read-you-die (em versão digital).

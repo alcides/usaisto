@@ -3,23 +3,20 @@
   <head>
     <title><%= title %> usaisto.com</title>
 	<link href=' http://fonts.googleapis.com/css?family=Droid+Sans' rel='stylesheet' type='text/css'>
-    <link href='http://usaisto.com/css/screen.css' media='screen' rel='stylesheet' type='text/css'>
+    <link href='http://usaisto.com/css/screen3.css' media='screen' rel='stylesheet' type='text/css'>
     <link href='http://feeds.feedburner.com/usaisto' rel='alternate' title='RSS' type='application/rss+xml'>
 
     <meta charset='utf-8'>
   </head>
   <body>
-    <header>
-      <h1>
-        <%= title %> <a href="http://usaisto.com">usaisto.com</a>
-      </h1>
-    </header>
+	<header></header>
     <aside id='sidebar'>
       <!-- TODO -->
-    </aside>
+	</aside>
     <section id='contents'>
       <article class='overview'>
-        
+        <h2 class="person"><%= title %> <a href="http://usaisto.com">usaisto.com</a></h2>
+
 		<%= content %>
 
       </article>
@@ -28,6 +25,20 @@
       <p>Este site é baseado na ideia original de <a href="http://usesthis.com">The Setup</a>, iniciada por <a href="http://alcidesfonseca.com">Alcides Fonseca</a> para Portugal.</p>
       
       <p>Quando não mencionado, o conteúdo encontra-se sobre a licença <a href="http://creativecommons.org/licenses/by-sa/2.5/au/" title="A Creative Commons license.">Attribution-Share Alike</a>.</p>
+	<script type="text/javascript">
+
+	  var _gaq = _gaq || [];
+	  _gaq.push(['_setAccount', 'UA-2046573-5']);
+	  _gaq.push(['_setDomainName', '.usaisto.com']);
+	  _gaq.push(['_trackPageview']);
+
+	  (function() {
+	    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	  })();
+
+	</script>
     </footer>
   </body>
 </html>

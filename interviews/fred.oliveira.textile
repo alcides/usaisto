@@ -1,0 +1,43 @@
+p(summary). Híbrido de Designer/Developer na WeBreakStuff.
+
+<time datetime="2010-06-24">24 de Junho de 2010</time>
+
+h3. Quem és e o que fazes?
+
+Fundador e user experience designer / developer at "Webreakstuff":http://webreakstuff.com. O termo empreendedor está gasto e perde sentido na nossa língua, mas gosto de pensar que tenho o espírito. Conference speaker. Músico nas horas vagas. Site pessoal: "helloform.com":http://helloform.com. Twitter: "@f":http://twitter.com/f
+
+
+
+!images/fred.oliveira.jpg!
+
+h3. Que hardware é que usas?
+
+h5. No trabalho e em movimento:
+
+No trabalho (e em todo o lado, na realidade), uso um Macbook Pro a 2.5ghz ligado a um monitor de 24" dada a necessidade de screen "real estate". Uso o último modelo que saiu antes da geração unibody. Ainda me estou a habituar ao design da última geração, se bem que a diferença de construção sozinha faz com que sinta 2000eur a virar-se para Cupertino. Talvez ceda em breve por um com processador i7. 
+
+h5. Casa:
+
+Em casa, o meu computador principal é um iMac de 27" com um Intel i7 quad-core (hostname: oreo, por ser preto), que me ofereci por bom comportamento. A resolução permite-me trabalhar com tudo o que preciso ao mesmo tempo num único ecrã, e tem a vantagem de servir de monitor externo se fizer efectivamente o upgrade para um MBP com mini display port. Este iMac é o melhor computador que já usei, hands down.
+
+O meu outro iMac (que o 27" veio substituir) é um 2.0ghz de 20" (hostname: cream, por ser branco) corre Snow Leopard Server para servir calendários, repositórios git e como testbed de projectos random e/ou pessoais. 
+
+h5. Telefone:
+
+Como telefone uso um iPhone 3GS (hostname: bun), para o qual fiz o upgrade depois de passar por 2 outros iPhones 2G (hostnames: batman / robin) que ainda hoje em dia funcionam nas mãos de outras pessoas. O iPhone hoje em dia serve-me como telefone pessoal, e para prototipar iOS apps em que estamos a trabalhar na WBS.
+
+h5. Outros:
+
+Estou à espera da chegada do iPad que encomendei para poder desenvolver universal iOS apps. Decidi comprar o 32gb com 3G, para não andar a correr à procura de Wi-Fi em todo o lado. Tenho um Kindle 2 que infelizmente vê pouco uso, mas vejo-me a abandoná-lo por completo caso a experiência de leitura no iPad seja aceitável (no Kindle é admitidamente bastante boa). Falar da gear de música seria out of scope, mas há imensa em casa desde monitores de estúdio, a teclados e pre-amps.
+
+h3. E que software?
+
+A minha vida é passada no Textmate, Chrome e Terminal. O Adium, dependendo de quão ocupado estou num determinado dia, está aberto ou fechado. Como twitter client uso o Tweetie (mais por conformação, já que sou anti-Air, e não há outro cliente nativo que me satisfaça na realidade). Uso a Creative Suite 5 extensivamente. Para produtividade uso o Omnifocus, tanto no mac como no iPhone.
+
+Outras coisas na dock: "Notational Velocity":http://notational.net/ (indispensável principalmente combinado com Dropbox e "Simplenote":http://simplenoteapp.com/), "LESS.app":http://incident57.com/less/, "Transmit":http://www.panic.com/TRANSMIT/, "NetNewsWire":http://netnewswireapp.com/, iCal e iTunes. Ocasionalmente para escrever uso o "OmmWriter":http://www.ommwriter.com/.
+
+
+
+h3. Qual era o teu setup de sonho?
+
+O que tenho agora + uma máquina do tempo. Ou pelo menos algo que fizesse o tempo andar à velocidade que eu quero. Isto para conseguir fazer tudo o que tenho na cabeça, ler a queue de livros que está à espera (compro livros compulsivamente, e agora tenho dezenas em fila de espera), e descansar mais. Dear science: make it happen.

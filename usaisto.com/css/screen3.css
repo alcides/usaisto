@@ -1,0 +1,236 @@
+/************************
+CSS RESET
+Copyright (c) 2010, Yahoo! Inc. All rights reserved.
+Code licensed under the BSD License:
+http://developer.yahoo.com/yui/license.html
+version: 3.1.1
+build: 47
+*/
+html{color:#000;background:#FFF;}body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,code,form,fieldset,legend,input,textarea,p,blockquote,th,td{margin:0;padding:0;}table{border-collapse:collapse;border-spacing:0;}fieldset,img{border:0;}address,caption,cite,code,dfn,em,strong,th,var{font-style:normal;font-weight:normal;}li{list-style:none;}caption,th{text-align:left;}h1,h2,h3,h4,h5,h6{font-size:100%;font-weight:normal;}q:before,q:after{content:'';}abbr,acronym{border:0;font-variant:normal;}sup{vertical-align:text-top;}sub{vertical-align:text-bottom;}input,textarea,select{font-family:inherit;font-size:inherit;font-weight:inherit;}input,textarea,select{*font-size:100%;}legend{color:#000;}
+/*************************/
+
+
+
+body {
+	margin: auto;
+	width: 540px;
+	color: #333;
+}
+
+header {
+	margin-top: 15px;
+	margin-bottom: 30px;
+}
+
+header h1 {
+	font-family: "Droid Sans", Helvetica, Arial, sans-serif;
+	color: #0072A2;
+	font-size: 28px;
+}
+
+header h1 a span {
+	font-size: 18px;
+}
+header h1 a {
+	color: #0072A2;
+	text-decoration: none;
+}
+
+header h1 a:hover {
+	background-color: #D0F3FF;
+	color: #333;
+}
+
+header #tagline {
+    font-family: Helvetica, Arial, sans-serif;
+    font-style: italic;
+    font-size: 0.85em;
+}
+
+section#contents {
+
+}
+
+/* article ----------------*/
+article {
+
+}
+
+article img.photo {
+	margin-left: 16px;
+	border: 1px solid #ccc;
+	padding: 3px;
+	float: left;
+}
+
+#info {
+	float: right;
+	padding-top: 20px;
+	width: 425px;
+}
+
+article img.hardware {
+	border: 1px solid #ccc;
+	padding: 4px;
+	margin-left: 15px;
+}
+
+article h2 {
+	font-family: "Droid Sans", Helvetica, Arial, sans-serif;
+	color: #333;
+	font-size: 28px;
+	padding-left: 20px;
+	margin-top: 30px;
+	display: inline;
+	clear: right;
+}
+
+article h2 a {
+    text-decoration: none;
+	color: #0072A2;
+}
+
+article p.summary {
+	margin-bottom: 0;
+	color: #666;
+
+
+}
+
+time {
+	padding-left: 20px;
+	color: #999;
+	font-family: "Droid Sans", Helvetica, Arial, sans-serif;
+	font-size: 14px;
+
+
+}
+
+article h3, article h4, article h5, article h6 {
+	color: #0072A2;
+	padding-left: 20px;
+	padding-bottom: 3px;
+	font-family: "Droid Sans", Helvetica, Arial, sans-serif;
+}
+
+article h3 {
+	margin-top: 40px;
+	margin-bottom: 10px;
+	border-bottom: 1px solid #ccc;
+	font-size: 22px;    
+}
+
+article h4 {
+    margin-top: 15px;
+	font-size: 18px;    
+}
+
+article h5 {
+    margin-top: 12px;
+	font-size: 16px;    
+}
+
+article p {
+	font-size: 16px;
+	font-family: "Droid Sans", Georgia, Times, "Times new Roman", serif;
+	line-height: 1.5em;
+	padding-left: 20px;
+	margin-bottom: 10px;
+	padding-right: 20px;
+}
+
+article p a, article ul a, article ol a, article h4 a, article h5 a, article h6 a {
+	text-decoration: none;
+	background-color: #D0F3FF;
+	color: #333;
+	padding: 2px 4px 2px 4px;
+}
+
+article p a:hover, article ul a:hover, article ol a:hover, article h4 a:hover, article h5 a:hover, article h6 a:hover {
+	padding: 2px 2px 2px 6px;
+	color: #000;
+}
+
+article ul, article ol {
+	font-family: "Droid Sans", Georgia, Times, "Times new Roman", serif;
+	line-height: 1.5em;
+	padding-left: 20px;
+	margin-bottom: 10px;
+	padding-right: 20px;    
+}
+
+article ol li {
+	margin-top: 15px;
+}
+
+/* footer ***********/
+footer {
+	border-top: 1px solid #ccc;
+	padding-top: 10px;
+	margin-top: 40px;
+	color: #444;
+	margin-bottom: 40px;
+	font-size: 12px;
+}
+
+footer p {
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+footer p a {
+	text-decoration: none;
+	background-color: #D0F3FF;
+	color: #333;
+	padding: 1px 2px 1px 2px;
+	
+}
+
+footer p a:hover {
+	padding: 1px 1px 1px 3px;
+	color: #000;
+	
+}
+
+ul#interviews {
+list-style: none inside;
+padding: 0;
+margin: 0;
+margin-top: 30px;
+line-height: 25px;
+font-family: "Droid Sans", helvetica, serif;
+}
+
+ul#interviews a {
+    background-color: transparent;
+    font-size: 150%;
+	color: #0072A2;
+    text-decoration: none;
+}
+
+ul#interviews a:hover {
+	background-color: #D0F3FF;
+	color: #333;
+}
+
+ul#interviews a img {
+margin-bottom: 5px;
+}
+
+ul#interviews li {
+padding: 10px;
+border: solid #CCC 1px;
+margin-bottom: 10px;
+-moz-border-radius: 20px; 
+-webkit-border-radius: 10px;
+border-radius: 10px;
+background-image: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#FFFFFF), to(#E0E0E0), color-stop(1,#333333));
+}
+
+ul#interviews span {
+line-height: 5px;
+}
+
+.green {background-color: #00693F;}
+.yellow {background-color: #ECD21F;}
+.red {background-color: #ED1C2E;}

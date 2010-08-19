@@ -1,0 +1,92 @@
+p(summary). Program Manager na Vodafone e autor do The Tao of Mac
+
+<time datetime="2010-06-21">21 de Junho de 2010</time>
+
+h3. Quem és e o que fazes?
+
+Sou gestor de programa num operador móvel internacional, pai a tempo inteiro e developer nas horas vagas (quando as há) para manter a minha sanidade mental. Fotógrafo de ocasião, leitor ávido, escritor assíduo.
+
+!images/rui.carmo.jpg!
+
+h3. Que hardware é que usas?
+
+h4. No escritório:
+
+h5. MacBook Pro (2007) + Monitor Dell 17"
+
+Não sei a velocidade do CPU ou a quantidade de RAM. Nem quero saber, dado que faz tudo o que preciso de há alguns anos para cá e continua a ser melhor e mais prático do que um "Dell E6400":http://www.pcmag.com/article2/0,2817,2333826,00.asp, o meu computador "oficial" que está na gaveta e que é um excelente exemplo de como o hardware corporativo "one size fits all" não chega aos calcanhares da Apple em termos de construção e performance.
+
+h4. Em casa:
+
+h5. Mac mini (2009), MacBook (late 2008, unibody):
+
+Um para arquivo de fotos e servidor "iTunes":http://en.wikipedia.org/wiki/Digital_Audio_Access_Protocol, o outro para as tratar e fazer um pouco de tudo. Acabo por usar mais o primeiro do que o segundo nos dias que correm.
+
+h5. "iPod Touch 8GB":http://en.wikipedia.org/wiki/IPod_Touch:
+
+O cavalo de batalha, onde escrevo posts, respondo a mail, administro o meu site e faço muito mais do que se poderia pensar à partida. Se há um gadget a que eu chame "computador pessoal", é a este. É o primeiro que ligo de manhã e o último que desligo à noite.
+
+h5. "Sony Reader PRS-505":http://en.wikipedia.org/wiki/Sony_Reader:
+
+A minha biblioteca, com centenas de livros e "revistas" personalizadas geradas automaticamente a partir de feeds RSS com engenho e arte. Escolhi-o não por ser o último grito mas pela durabilidade e portabilidade (o plástico do Kindle não me atraía, e mesmo depois de o termos na Europa preferi algo com uma bateria que dura semanas a uma montra portátil para a Amazon).
+
+h5. "Samsung NC10":http://en.wikipedia.org/wiki/Samsung_NC10:
+
+O laptop de férias, fim-de-semana ou viagem, com uma bateria que dura 8-12h e "HSPA":http://en.wikipedia.org/wiki/High_Speed_Packet_Access incorporado (tem menos uso dessa forma desde que passei a usar um "MiFi":http://en.wikipedia.org/wiki/MiFi em viagem, mas não deixa de ser um aspecto importante). Nunca o teria comprado (foi um prémio de um evento interno), mas torna-se útil por ter um disco de 160GB onde posso arquivar fotos em viagem.
+
+h4. Outros
+
+* Um "Linksys NSLU2":http://en.wikipedia.org/wiki/NSLU2, antigo servidor de ficheiros, hoje pouco mais do que um bastião de SSH lobotomizado para correr em 512MB de flash e a minha única concessão ao Linux.
+* Um par de "Airport Extremes":http://www.apple.com/airportextreme/ para cobertura Wi-Fi com 802.11n e partilha da velha e caquética impressora que ainda cá anda.
+* Um piano Yamaha para me lembrar que já soube tocar e para manter acesa a esperança de um dia voltar a fazê-lo.
+
+h4. Em todo o lado:
+
+h5. iPhone 3GS 16GB
+
+O telefone que me fez deixar de usar outros, por ser suficientemente bom como telefone e excelente como computador pessoal. Desligo-o sempre que estou em casa para isolar o meu ambiente familiar do profissional, mas é uma ferramenta de trabalho suficientemente boa para não achar necessário ter outro tão cedo.
+
+h5. Dell Mini 9
+
+O único netbook que sobreviveu à minha fase exploratória do form factor. Muito leve, totalmente silencioso, ideal para tomar notas em reuniões (apesar de um teclado francamente bera), fazer apresentações e ter acesso remoto via "Citrix":http://www.citrix.com - tem o mínimo indispensável de software instalado no SSD de origem (8GB), pois é o network computer por excelência: pouco mais do que um teclado e display com rede "HSPA":http://en.wikipedia.org/wiki/High_Speed_Packet_Access. Serve de saco de pancada para testar outras coisas num SSD extra.
+
+h5. Fotografia:
+
+* "Panasonic Lumix FX-33":http://www.dpreview.com/reviews/specs/Panasonic/panasonic_dmcfx33.asp para passeios e fotos de ocasião
+* "Canon EOS 350D":http://www.dpreview.com/reviews/canoneos350d/ para coisas mais sérias.
+
+Gosto do wide angle em tamanho de bolso da primeira e da flexibilidade da segunda com uma lente "destas":http://www.the-digital-picture.com/Reviews/Canon-EF-S-17-85mm-f-4-5.6-IS-USM-Lens-Review.aspx. Não tenho tempo nem paciência para nada mais sofisticado de momento.
+
+h3. E que software?
+
+h4. Desktops e Laptops
+
+* Mac OS X em quase tudo, Windows XP nos netbooks (nenhum Linux actual me convence em termos de eficiência e usabilidade, e não me parece que a situação mude tão depressa)
+* "Citrix":http://www.citrix.com (todo o meu ambiente corporativo à distância de um clique, em qualquer computador - inclusivé o iPhone)
+* "Office 2008":http://www.microsoft.com/mac/products/office2008/default.mspx (no escritório), "iWork'09":http://www.apple.com/iwork/ (em casa)
+* "VMware Fusion":http://www.vmware.com/products/fusion - a melhor maneira de correr outro sistema operativo num Mac sem chatices e com acesso a todo o hardware.
+* "Dropbox":http://www.dropbox.com - para manter os meus scripts e o meu site actualizados em qualquer lugar, tenha ou não rede.
+* "Evernote":http://www.evernote.com - todas as minhas notas, em qualquer lugar.
+* "Calibre":http://calibre-ebook.com - para gerir e-books e compilar as minhas "revistas" personalizadas.
+* "Pixelmator":http://www.pixelmator.com - porque o Photoshop não se justifica quando há software desta qualidade a este preço.
+* "Textmate":http://macromates.com/ - o único editor que é preciso para desenvolver seja o que for em Mac.
+
+O resto (como o "vim":http://www.vim.org) ou vem como parte do ambiente ou do "MacPorts":http://www.macports.org, e uso o "Cygwin":http://www.cygwin.org para manter a sanidade mental em Windows.
+
+h4. iOS
+
+* "Reeder":http://reederapp.com - a minha fonte diária de notícias de todos os tipos, que usa o Google Reader e uma quantidade apreciável de Yahoo Pipes que fiz por medida para me darem feeds RSS personalizadas acerca das coisas que me interessam.
+* "Evernote":http://www.evernote.com - para tomar notas e fazer drafts de todo o tipo. O cliente para iPhone é particularmente brilhante, e uso-o todos os dias. A quantidade de texto que escrevi ou tenho ao meu dispor desta forma é fabulosa, e é aplicação que não dispenso.
+* "Instapaper Pro":http://www.instapaper.com/ -  para ter sempre comigo material de leitura para o meu trajecto matinal, guardado com um clique em qualquer browser.
+* "Stanza":http://www.lexcycle.com/ - ao contrário do Sony Reader, sincroniza com o Calibre sobre Wi-Fi e acaba por ser mais prático para material mais efémero e curto que os livros.
+* "iSSH":http://www.zinger-soft.com/ - SSH e VNC numa só aplicação, que uso para manter o meu site e controlar o meu Mac mini.
+* "iTunes Remote":http://www.apple.com/itunes/remote/ - toda a minha música sem chatices (tenho uma Airport Extreme ligada ao meu sistema de som, e envio para lá o audio)
+
+
+h3. Qual era o teu setup de sonho?
+
+Um Mac qualquer com dois monitores de 24" (ou acima), um gravador de Blu-Ray (para ter uma estratégia de backup baseada em menos bases para copos por sessão) e um iPad. _Less is more_, mas há alguns aspectos de "more" que vale a pena ter, e um deles é claramente espaço, quer no desktop quer para arquivo. 
+
+Eventualmente uma "Panasonic Lumix GF-1":http://craigmod.com/journal/gf1-fieldtest/ se tivesse tempo para dedicar à fotografia a sério.
+
+Não estou particularmente interessado em gastar mais num telefone do que num iPad, pelo que o iPhone 4 será sempre algo que só comprarei do meu bolso se o meu telefone actual avariar ou quando estiver a um preço racional.

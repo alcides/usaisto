@@ -1,0 +1,37 @@
+p(summary). Consultor em Cloud Computing e Segurança Informática
+
+<time datetime="2010-08-19">19 de Agosto de 2010</time>
+
+h3. Quem és e o que fazes?
+
+"Vitor Domingos":http://vitordomingos.com, mais conhecido por VD, auto-intitulado "ruthless mercenary", que vai ser a next big thing, após os "ninjas"....
+
+Sou um Eng. Civil que "já fez de tudo em IT":http://pt.linkedin.com/in/vdomingos; desde helpdesk, administração de sistemas, segurança, programação, gestão de projecto e produto, direcção de departamento, culminando como sócio numa startup tecnológica (que fechou). Faço consultoria em cloud computing e segurança informática para a Amazon Europe, mas nos últimos meses tenho estado como business development e account manager na Compta.
+
+No tempo livre sou "produtor":http://altprtsc.blip.tv de "vídeo":http://prtsc.blip.tv e editor da "The Next Web":http://thenextweb.com/pt. Sou ainda fundador da "Mobile Monday Portugal":http://mobilemondayportugal.com e ajudo algumas startups europeias, nomeadamente a nível de infra-estrutura (cloud) e produto.
+
+!images/vitor.domingos.png!
+
+h3. Que hardware é que usas?
+
+"Nokia E71":http://europe.nokia.com/find-products/devices/nokia-e71 (o melhor telemóvel que já tive); "BlackBerry Bold 9700":http://na.blackberry.com/devices/blackberrybold/ e iPhone 3G. Este é o meu gear diário, que em conjunto com um bloco de notas a imitar o moleskine, uma caneta normal e uma pen usb de 16GB, fazem tudo acontecer. De facto sou um _mobile lover_ e detesto estar agarrado a um computador. Tenho o que preciso na cloud, replicado por um par de sitios, de forma segura e encriptada, sempre acessível para onde vá.
+
+Contudo tenho em casa um desktop qualquer, C2D a 3Ghz com 4GB de ram e um par de discos SATA. Nele estão agarrados dois monitores, um LG de 20" e um Samsung de 17". Comigo também anda um "Asus EeePC 1000HE":http://usa.asus.com/Product.aspx?P_ID=Ues16Gw2OcqSjUNt, para as apresentações que dou ou para algo que requer edição mais complexa que num telemóvel. Na Compta tenho um "Compaq CQ61":http://h71016.www7.hp.com/html/interactive/cq61/model.html?jumpid=in_HP3D_3d/NBT/cq61%7C3DCENTRAL%7Cother, horrível, pesado e feio, usado como desktop.
+
+Para o video tenho duas "JVC HD5":http://camcorder.jvc.com/product.jsp?pathId=171 a gravar em 1080p e Rode Shotgun Mic. Tenho uma maquina fotográfica Panasonic, mas não me recordo do modelo, já que a maioria das fotos tiradas é feita pelos três telemóveis acima referidos.
+
+h3. E que software?
+
+Basicamente uso Symbian, IOS e Blackberry OS - por esta ordem.
+
+No desktop; Windows 7 64 bits, "OpenOffice":http://openoffice.org para os documentos mais complexos, "Sublime Text":http://www.sublimetext.com/ no texto simples, "CygWin":http://www.cygwin.com/ para tudo o que o Windows não faz, Browser "Chrome":http://google.com/chrome com uma catrefada de extensões, "Paint.Net":http://getpaint.net para imagem, Snipping Tool nas screenshots. No video uso só o "Sony Vegas Pro":http://www.sonycreativesoftware.com/vegaspro (190mb de instalação) que bate aos pontos o FinalCut ou o Premiere, "WinFF":http://winff.org para conversão, "MediaInfo":http://mediainfo.sourceforge.net para alguns detalhes, "VirtualDub":http://virtualdub.org e "ustream":http://ustram.tv.
+
+O EeePC 1000HE corre Snow Leopard, Windows 7, Windows XP, Windows Vista, Fedora, Ubuntu, JoliCloud e Meebo - ou seja, tudo o que consiga encontrar, este bixinho fofinho come tudo. Curiosamente o Windows 7 ainda é o que correr melhor nele...
+
+A nível de aplicações, corro tudo na cloud sempre que possível! Uso o "Google Docs":http://docs.google.com intensamente, o "Live.com":http://live.com para alguns backups e integração com o Office 2010 a correr na empresa. É no google apps que tenho o meu mail, contactos e calendário, sincronizados entre os três telemóveis e três computadores, não vá o diabo tecê-las :) Para IM uso o brilhante "imo.im":http://imo.im.
+
+Mas o truque está na pen usb que anda sempre comigo; nela estão as portable apps como o "Thunderbird":http://mozillamessaging.com/thunderbird, "Google Chrome":http://google.com/chrome, "Skype":http://skype.com, "keepass":http://keepass.info, "CygWin":http://cygwin.org e "VirtualBox":http://virtualbox.org com uma imagem do CentOS, só para as tosses. Tanto a pen como o EeePC e Compaq estão encriptados com o "TrueCrypt":http://truecrypt.org.
+
+h3. Qual era o teu setup de sonho?
+
+Ando à séculos a namorar os Sony Vaio com 3G incorporado. Mas se aparecesse um MacBook Air com 3G e um i3 como CPU, ao mesmo preço do vaio (900 euros), eu não pensaria duas vezes. Para deskop está na calha um i7 para reduzir o tempo de rendering dos vídeos e um aumento para 8GB na ram. Para telemóvel, o meu próximo terá de ser um Android que vai fazer par com o Nokia E71, deixando para trás o blackberry e o iphone.

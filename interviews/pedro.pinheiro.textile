@@ -1,0 +1,35 @@
+p(summary). Fotógrafo
+
+<time datetime="2010-06-24">24 de Junho de 2010</time>
+
+h3. Quem és e o que fazes?
+
+Sou o Pedro Moura Pinheiro, e sou "fotógrafo":http://pedromourapinheiro.com/ e administrador do grupo "Grão Pará":http://graopara.pt/PT/modules/home.php (não necessariamente nesta ordem!). Também ajudo as pessoas a conhecerem-se ao vivo através do "Twittlis":http://twitter.com/twittlis e do "oneoverzero":http://oneoverzero.org/. Um dia gostava de ser designer de máquinas fotográficas, escritor de ficção científica, e astronauta.
+
+
+!images/pedro.pinheiro.jpg!
+
+h3. Que hardware é que usas?
+
+# iPhone 3GS como ligação ao mundo constante, dentro e fora de casa e dos escritório. Não há nada comparável em termos de computadores que cabem dentro do bolso das calças, com uma série de apps interessantes para fotografia e não só.
+# Computadores do dia a dia (escritório/sofá/viagens) são: um MacBook Pro de 15" (2009) tanto para o trabalho a sério como para a fotografia; para máquina de levar comigo na mochila das máquinas, sofá de casa, e para viagens, tenho um MacBook de alumínio que comprei usado e no qual meti 4GB de RAM e um SSD; e tenho também alguns Macs antigos, como um "iMac G4":http://www.flickr.com/photos/pedromourapinheiro/4688754466/" a correr o Mac OS 10.5.8 (que dá para usar o Photoshop CS4, usando técnicas de concentração Zen), um "iMac G3":http://www.flickr.com/photos/pedromourapinheiro/4670463534/ a correr o Mac OS 10.4.11 (no qual nem sequer tentei instalar o Photoshop), e estou a tentar comprar um Power Mac Cube.
+# Servidor + storage + backup: Mac Mini headless em cima do armário da cozinha, ligado a um Drobo (que se chama Ceiling Cat), que é o servidor + main storage ao qual posso aceder remotamente. Está ligado à rede através de um Devolo, e na arrecadação (6 andares de distância) está um Iomega Storcenter iX2 (que se chama Basement Cat). Todas as noites é feito um backup do meu arquivo fotográfico de um para o outro, assim tenho duas cópias em lugares físicos relativamente distantes e separados, para dar alguma protecção contra roubos, incêndios, etc.
+# Fotografia: duas Canon EOS 5D Mk II para os trabalhos e saídas para fotografia, e uma Canon S90 para andar sempre no bolso durante a semana, um conjunto grande de lentes zoom e fixas (de 12mm a 1000mm), flashes, e material auxiliar (tripés, difusores, cabos disparadores, filtros, etc.) - apesar de gostar muito de trabalhar com Canon, a razão essencial é que comecei há bastantes anos com uma Canon EOS 300D e fui investindo em material Canon, mas não sou dogmático.
+
+h3. E que software?
+
+* Em termos de sistema operativo, só "Mac OS X":http://www.flickr.com/photos/pedromourapinheiro/4236373067/. Nisso sou dogmático - não há sistemas perfeitos, mas o OS X está anos-luz à frente de qualquer outra coisa em termos de experiência total.
+* Para e-mail, para as contas de trabalho o Mail.app, para tudo o resto o Gmail, que uso como o meu GTD, através de filtros e labels.
+* Para as coisas "chatas", estou a tentar mudar para o iWork, embora tenha que trabalhar muito ainda com o Word e o Excel 2008 por questões de compatibilidade com ficheiros que vêm de fora.
+* Para messaging, o Adium, para o Twitter o Tweetie.
+* Tenho uma "Dropbox":https://www.dropbox.com/referrals/NTE5MzgzMjk de 50GB - melhor invenção de sempre em termos de partilha e sincronização de ficheiros, o que o iDisk da Apple devia ser.
+* Para backups, Time Machine para as necessidades normais, e o Syncronize! X Plus para o backup diário do arquivo fotográfico.
+* Para processamento dos ficheiros RAW, ou o Adobe Camera RAW ou o DxO Optics quando é preciso correcções volumétricas mais complicadas. Não uso o Lightroom nem o Aperture porque faço o arquivo das fotografias todo manualmente em pastas (old school) e nunca faço trabalhos em que preciso de entregar centenas de fotografias, portanto gosto de ter mais flexibilidade.
+* Como editor de imagem, o Adobe Photoshop CS5. Uso o Photoshop desde 1994, hoje em dia é tipo um velho e confortável "par de botas":http://www.flickr.com/photos/pedromourapinheiro/4318713922/ que já sabe para onde quero ir.
+O único plug-in extra que uso no Photoshop é o Noise Ninja, que serve para trabalhar e suprimir o ruído do sensor das máquinas com uma flexibilidade única.
+
+
+
+h3. Qual era o teu setup de sonho?
+
+O meu computador favorito de sempre é o MacBook Air, mas tive que partir para o MBP por o Air não ter RAM suficiente para o meu trabalho. Portanto, o meu dream setup é um MacBook Air quando tiverem pelo menos 4GB de RAM como computador realmente portátil, e um MacBook Pro de 17" como máquina principal para a fotografia. Consideraria desktops da Apple se eles lançassem um combo teclado+trackpad Bluetooth.

@@ -1,0 +1,46 @@
+p(summary). Investigador e UX Designer
+
+<time datetime="2010-07-26">26 de Julho de 2010</time>
+
+h3. Quem és e o que fazes?
+
+Sou o "Rui Lopes":http://www.rlopes.net. Faço investigação em "Web Science":http://webscience.org/ e "Web Accessibility":http://www.w3.org/WAI/, faço consultoria em "Universal Experience Design":http://boomux.com, participo no "W3C":http://www.w3.org/XML/Processing/, tenho umas parcerias com a "CoreFactor":http://corefactor.pt, invento "umas aplicações":http://tealeavesapp.com/, "serviços":http://www.whit.me/) e "outros espasmos":http://hcim.di.fc.ul.pt/~rlopes/reportgist/, toco guitarra e piano, viajo e ainda vou tirando umas fotos.
+
+
+
+!images/rui.lopes.png!
+
+h3. Que hardware é que usas?
+
+No trabalho: O dia-a-dia é passado num Macbook Pro 15" (pre-unibody) ligado a um monitor Dell 27", com a ocasional incursão a um headless Dell OptiPlex. Para as experiências, vou alternando entre um Dell PowerEdge 1U para coisas mais simples e o cluster de computação distribuida da FCCN para coisas mais pesadas.
+
+Em casa: Apenas um Macbook 13" Core2Duo (aka blackbook), um amplificador-descodificador "Pioneer VSX 819-H":http://www.pioneerelectronics.com/PUSA/Products/HomeEntertainment/AV-Receivers/PioneerReceivers/ci.VSX-819H-K.Kuro - bom bang for bucks - e umas colunas "Yamaha NS-P610":http://www.yamaha.com/yec/products/productdetail.html?CNTID=200475&CTID=5003000.
+
+Em movimento: iPad 16GB, iPhone 1st gen como uso principal e Google Nexus One para testes, 3G e wifi hotspot.
+
+Para tocar: (music-pr0n ahead, beware). Vou dividindo a minha atenção entre a recém-chegada "Schecter C-1 Classic":http://www.schecterguitars.com/, a velhinha "Fender JazzMaster":http://en.wikipedia.org/wiki/Fender_Jazzmaster e uma "Admira Paloma":http://reviews.harmony-central.com/reviews/Guitar/product/Admira/Paloma/10/1.
+
+Para chatear os vizinhos, tenho um amplificador de guitarra "Fender Hot Rod Deluxe":http://www.fender.com/products/search.php?partno=0213202000 e um "BOSS MT-2 Metal Zone":http://www.bosscorp.co.jp/products/en/MT-2/. Para *não* chatear os vizinhos, um "Line 6 PODxt Live":http://line6.com/podxtlive/. Ando também à volta de um recém comprado "Yamaha NP-30":http://www.yamaha.com/yamahavgn/CDA/ContentDetail/ModelSeriesDetail.html?CNTID=555809 para voltar a tocar piano.
+
+Para viajar: uma "TUMI Vapor":http://intl.tumi.com/vapor/international-carry-on-143044/ quando emtrabalho; vale todo o investimento: deveras sólida, tamanho dentro dos limites de carry-ons, dá para quase 2 semanas de roupa, TSA-approved, boas medidas de segurança e bom fallback se me esquecer do código. Se é de férias, uma backpack barata da Quechua, grande q.b.
+
+Fotografia: Uma Canon 40D, com o setup 17-85mm, 50mm, um tripé Giottos e vários filtros.
+
+h3. E que software?
+
+Nos laptops, obviamente, OSX. Para trabalhar, centro-me no TextMate, com alguns bundles extra para LaTeX e Groovy, "Skim":http://skim-app.sourceforge.net/ para ler/rever PDFs, "R":http://www.r-project.org/ e uns molhos de shell scripts. Uso software in-house do grupo de investigação e o "AChecker":http://www.atutor.ca/achecker/ para fazer avaliações de acessibilidade. "Morae":http://www.techsmith.com/morae.asp, "Camtasia":http://www.techsmith.com/camtasia.asp, entre outros, para testes de usabilidade.
+
+Não me imagino sem o "Papers":http://mekentosj.com/papers/ para gerir a minha biblioteca virtual de estado-da-arte na investigação. Muito menos sem o "OmniFocus":http://www.omnigroup.com/products/omnifocus/ para manter a sanidade mental da gestão da agenda, to-do's e projectos. Dropbox para evitar caos salvar a vida de vez em quando. Mail todo através do Gmail embrulhado no "Fluid.app":http://fluidapp.com/.
+
+Tenho Ubuntu (não me recordo que versão) no desktop Dell, ao qual me ligo por "NX":http://www.nomachine.com/, mas que uso primariamente
+como leitor de MP3 em ponto grande e máquina de backups. Os servidores correm CentOS e RHEL.
+
+Em casa, replico o ambiente de trabalho do outro laptop mas com tudo escondido (shortcuts, etc.) para evitar a insanidade. Assim, está mais centrado no lazer: "Lightroom":http://www.adobe.com/products/photoshoplightroom/ para gerir e retocar as fotos que vou tirando; "Photoshop CS5":http://www.adobe.com/products/photoshop/photoshop/ quando necessário; "GarageBand":http://www.apple.com/ilife/garageband/ e "Logic":http://www.apple.com/logicstudio/ para gravação; "POD Farm 2":http://line6.com/podfarm/ e "GearBox":http://line6.com/gearbox_plugin/ como interfaces para gerir o POD.
+
+No iPad: Instapaper - só isto vale o preço do iPad; Wired; Dropbox; Notes (excelente para reuniões); Kindle; Comics; "iMockups":http://endloop.ca/, Keynote e "Stickyboard":http://www.qrayon.com/home/stickyboard/default.aspx para geração de ideias e UxD; GodFinger, PathologyHD, Aurora Feint 3, HexaGo e SmallWorld para passar o tempo; "TabToolkit":http://www.agilepartners.com/apps/tabtoolkit/ para guitar licks, "Etude":http://etudeapp.com para estudar piano , "iElectribe":http://www.korg.com/ielectribe para fazer uns beats de drum'n'bass, Safari para couch-potatoing; KAYAK, Google Maps e Google Earth para planear viagens.
+
+No iPhone: Instapaper, Traffic Rush, Flood-it! 2, Guitar Toolkit, DS audio, CineSAPO; No Nexus: Gmail, ColorNote, Advanced Task Killer. Ambos com um setup semelhante de redes sociais e afins.
+
+h3. Qual era o teu setup de sonho?
+
+Um "Brain-Computer-Interface":http://en.wikipedia.org/wiki/Brain%E2%80%93computer_interface decente, não intrusivo, para os brain dumps e transformar as ideias em algo palpável de forma instantânea; um "teletransportador":http://en.wikipedia.org/wiki/Teleportation para poder visitar o mundo (universo?) inteiro sem ter que esperar eternamente nos aeroportos - um cartão gold, vitalício, da Star Alliance já ajudava um bocadinho, confesso; uns comprimidos anti-envelhecimento e reparação celular - acho que viver 80-100 anos é muito pouco.

@@ -1,5 +1,3 @@
-!images/alcides.fonseca.jpg!
-
 p(summary). Autor deste site, estudante, wedeveloper freeelancer
 
 <time datetime="2010-06-15">15 de Junho de 2010</time>
@@ -11,6 +9,8 @@ De momento estou a acabar o Mestrado em Engenharia Informática durante o dia, e
 Estou ainda envolvido num projecto de investigação que pretende explorar como seria uma linguagem de programação em que tudo acontece concorrentemente.
 
 Quando não tenho mesmo nada melhor que fazer, dedico-me a mini-projectos como é o caso deste website.
+
+!images/alcides.fonseca.jpg!
 
 h3. Que hardware é que usas?
 

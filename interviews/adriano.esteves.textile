@@ -1,0 +1,80 @@
+p(summary). Designer e Director Criativo na Bürocratik
+
+<time datetime="2010-07-14">14 de Julho de 2010</time>
+
+h3. Quem és e o que fazes?
+
+Engenheiro Químico de formação, Designer de profissão. Fundador e director criativo da "Bürocratik":http://burocratik.com - Agência de design, sediada em Coimbra, com ramificações em Espanha e Alemanha. 
+
+Viciado em branding & identity, tipografia e música (como ouvinte). A minha formação foi integralmente auto-didacta, apesar de nos últimos 4 anos ter investido especialmente no tratamento de cor (cursos avançados de photoshop em Londres, Toronto e S.Diego) e desenho de tipos de letra (Reading University - UK).
+
+Site Pessoal: "adrianoesteves.com":http://adrianoesteves.com
+Twitter: "@adrianoesteves":http://twitter.com/adrianoesteves
+Linkedin:  "adrianoesteves":http://linkedin.com/in/adrianoesteves
+Lastfm: "adrianoesteves":http://lastfm.com/user/adrianoesteves
+
+!images/adriano.esteves.jpg!
+
+h3. Que hardware é que usas?
+
+h4. @ Buro
+
+Mac Pro 2x2.8 GHz Quad-Core Intel Xeon (6GB 800MHz DDR2 RAM) + Dual Cinema Display 20”+ "Wacom Inctuos 4":http://www.wacom.com/intuos/ + "Lacie Safe Disk 160 GB":http://www.amazon.co.uk/LaCie-Desktop-Drive-Biometric-7200RPM/dp/B000ILZ75O + "OKI 5900":http://www.oki.pt/printers/colour-printers/a4-printers/detail.aspx?prodid=tcm:104-2917-16 + "OKI 8800":http://www.okidata.com/mkt/html/nf/ColorPrinters.php?sku=c8800series + "Server Dell":http://www.dell.com/us/en/business/servers/poweredge-r210/pd.aspx?refid=poweredge-r210&s=bsd&cs=04 com Linux Centos w/ Subversion + "Lacie Ethernet Disk 4 TB":http://www.lacie.com/pt/products/product.htm?pid=11203 (backups) + "Nokia 6230i":http://www.nokia.pt/produtos/todos-os-modelos/nokia-6230i + "Phones Sennheiser H650":http://www.sennheiserusa.com/private_headphones_audiophile-headphones_009969
+
+Após um penoso trajecto de mais de 16 anos em Windows (Windows 3.1 -> Windos XP), a introdução do Window Vista e a vulgarização do OTF (formato opentype de tipos de letra dual platform PC/MAC) foram os argumentos que esperava para abandonar o Windows/PC e passar para OSX/MAC.  
+
+Após 3 anos de OSX, vou fazendo aos poucos eutanásia aos PC’s que restam pela agência (apenas 2 na lista de espera). 
+
+Como a maioria do meu trabalho gráfico é vectorial (branding / type), as impressoras OKI acompanham-me há já bastante tempo e ainda não encontrei qualidade laser a cores superior. 
+
+Os discos externos que me acompanham são sempre LaCie (zero experiências negativas desde 2001). Os auscutadores H650, apesar de audiófilos e necessitarem de um amplificador para brilhar na sua plenitude, são o meu equipamento de uso diário preferido.
+
+h4. Casa & Outdoor
+
+* Macbook Pro 2008 2.4 GHz Intel Core 2 Duo (2GB 667MHz DDR2 RAM) 
+* "Lacie Rikiki 320 GB":http://www.lacie.com/pt/products/product.htm?pid=11401
+* "LaCie 5big Network 2":http://www.lacie.com/pt/products/product.htm?pid=11481 (Backups em casa).
+
+h4. Audio Casa
+
+"SONY CMT EX":http://www.audioreview.com/cat/other/mini-systems/sony/cmt-ex1/PRD_124206_2749crx.aspx, um mini sistema com uma qualidade acima da média, enquanto o sistema principal aguarda fundos para ser concluído.
+
+Este sistema é: "Amplificador Krell S-300i":http://www.imacustica.pt/catalogo/detalhes_produto.php?id=983&cat=0&resolution=1024x768 + "Pré Amp Dino da Trichord":http://www.trichordresearch.com/dino.html + "Rega Planar 3":http://www.rega.co.uk/html/p3-24%20colours.htm Verde Lima + "Colunas Striling BBC LS3/5a":http://www.rega.co.uk/html/p3-24%20colours.htm, com cerca de 250 LP’s que colecciono há uns anos, e que aguardam unplayeds no canto da sala. 
+
+O novo "Mac Mini":http://www.apple.com/pt/macmini/ está em lista de espera para o fim do ano para ser o media center. Isso e o "Apple Airport Express":http://www.apple.com/airportexpress/features/airtunes.html para fazer music streaming ligado a um "Benchmark DAC1":http://www.benchmarkmedia.com/system1/digital-analog-converter/dac1-usb que ligado ao Krell vão finalmente permitir que a minha libraria de MP3 seja ouvida com qualidade audiófila.
+
+h4. Fotografia
+
+Actualmente a "Canon G11":http://www.canon.pt/for_home/product_finder/cameras/digital_camera/powershot/powershot_g11/index.aspx, pela sua portabilidade, mas arrependido de não ter comprado a "Panasonic Lumix GF-1":http://www.dpreview.com/reviews/PanasonicGF1/. Máquinas digitais anteriores que possuí: "Canon G1":http://www.dpreview.com/reviews/canong1/ e "Canon 10D":http://www.dpreview.com/reviews/canoneos10d/ - a última, arrumada na garagem por falta de portabilidade.
+
+h3. E que software?
+
+Por ordem de importância/frequência de uso:
+ 
+* Adobe CS4 - Principalmente Photoshop, Illustrator e After Effects (Actualização para CS5 não vai acontecer)
+* "Fontlab Studio 4":http://www.fontlab.com/font-editor/fontlab-studio/ - Desenho e edição de fontes e desenho de marcas
+* "Dropbox":https://www.dropbox.com/home - Ferramenta imbatível de partilha e sincronização de ficheiros
+* "Linotype Font Explorer X":http://www.fontexplorerx.com/ - Para gestão de fontes 
+* "Merlin":http://www.projectwizards.net/en/merlin/ - Gestão de Projectos OSX
+* "iWork’09":http://www.apple.com/iwork/ & "Google Docs":http://docs.google.com/ - Documentos & Folhas de Cálculo
+* "Google Apps Standard":http://www.google.com/apps/intl/en/group/index.html & "GoogleAppEngine":http://code.google.com/appengine/ - Para Mail / Docs / Calendar / Wave
+* "Panic Transit":http://www.panic.com/transmit/ - Para FTP
+* "Panic Coda":http://www.panic.com/coda/ - Html & Text Edit Tool
+* "Things":http://culturedcode.com/things/ - Para Task Management (sincronizada pelo dropbox)
+* "iTunes":http://www.apple.com/itunes/ + "Lastfm":http://www.last.fm/download - Audio Player
+* "Adium":http://adium.im/ & "Skype":http://www.skype.com/intl/pt/home/ - Para falar com a equipa, clientes e amigos
+* "Tweetie":http://www.atebits.com/tweetie-mac/ - Twitter Client
+* "Luxology Modo":http://www.luxology.com/modo/ - 3D 
+* "Versions":http://versionsapp.com/ - SVN Client
+* "ONull":http://www.onull.net/ - Vector Generator Tool
+* "Picasa3":http://picasa.google.com/mac/ - Photo Manager pela imbatível rapidez de preview
+
+h3. Qual era o teu setup de sonho?
+
+h4. Office
+
+Neste momento não me lembro do que possa precisar, para além de um iPhone4 como extensão Buro Outdoor. Nos últimos 10 anos, apenas saltei  entre  2 Nokias ("6210":http://www.cellink.com.au/products/images/6210old.jpg e actualmente um 6230i para abate à espera do "e72":http://www.nokia.pt/produtos/todos-os-modelos/nokia-e72). Provavelmente um iPad também dava jeito - para mostrar layouts e folio a clientes.
+
+h4. Casa
+
+Aqui posso sonhar:  "B&O Sound5":http://www.bang-olufsen.com/beosound5 + "Beomaster 5":http://www.bang-olufsen.com/beomaster5 + "BeoLab 8000":http://www.bang-olufsen.com/beolab8000 + "BeoLab11":http://www.bang-olufsen.com/beolab11 + "BeoVision 10":http://www.bang-olufsen.com/beovision10 + "Beo5 remote control":http://www.bang-olufsen.com/beo5-remote-control + "Beoport":http://www.bang-olufsen.com/beoport. Contudo, a B&O de Aveiro ainda não enviou o orçamento e nos próximos anos o meu banco não me apoia em mais sonhos! 

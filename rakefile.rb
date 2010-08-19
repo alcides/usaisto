@@ -119,6 +119,11 @@ task :generate_docs do
     end
   end
   
+  files.sort! { |f1,f2| datify(f2).casecmp datify(f1)  }
+  
+  files = files.delete_if { |f| f.include? "alcides.fonseca" }
+  
+  
   d = Dir.new $output_folder
   
   template_file = File.open($index_template)
